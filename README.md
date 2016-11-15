@@ -31,7 +31,7 @@ Products that use this Library
 Version History
 ---------------
 
-* [V_1.0.0](https://github.com/sparkfun/SparkFun_HIH4030/tree/V_1.0.0) - Initial library release
+* [V_1.0.0](https://github.com/sparkfun/SparkFun_HIH4030_Arduino_Library/releases/tag/V_1.0.0) - Initial library release
 
 License Information
 -------------------
