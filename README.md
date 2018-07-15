@@ -1,7 +1,7 @@
 SparkFun SparkFun Humidity Sensor Breakout - HIH-4030 Arduino Library
 ========================================
 
-[![SparkFun Huimidty Sensor Breakout - HIH-4030](https://cdn.sparkfun.com//assets/parts/3/3/5/0/09569-03-Working.jpg)](https://www.sparkfun.com/products/9569)
+[![SparkFun Huimidty Sensor Breakout - HIH-4030](https://cdn.sparkfun.com//assets/parts/3/3/5/0/09569-02.jpg)](https://www.sparkfun.com/products/9569)
 
 [*SparkFun Huimidty Sensor Breakout - HIH-4030*](https://www.sparkfun.com/products/9569)
 
