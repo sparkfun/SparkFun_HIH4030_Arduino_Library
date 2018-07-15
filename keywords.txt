@@ -12,14 +12,14 @@ SparkFun_HIH4030	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-HIH4030			KEYWORD2
-getSensorRH		KEYWORD2
-getTrueRH		KEYWORD2
-vout			KEYWORD2
-pinMode			KEYWORD2
+HIH4030	KEYWORD2
+getSensorRH	KEYWORD2
+getTrueRH	KEYWORD2
+vout	KEYWORD2
+pinMode	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
 #######################################
-pin			LITERAL1
-supply			LITERAL1
+pin	LITERAL1
+supply	LITERAL1
